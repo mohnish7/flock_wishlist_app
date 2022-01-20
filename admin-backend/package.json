@@ -1,0 +1,23 @@
+{
+  "name": "admin-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohnish Chakravarti",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^8.2.4",
+    "firebase-admin": "^9.4.2",
+    "firebase-functions": "^3.13.2",
+    "stripe": "^8.137.0"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
